@@ -121,14 +121,15 @@ You can check out the live demo of the project here. <br/>
     </table>
     <p>&copy; 2024 Manpreet Singh. All rights reserved.</p>
 
-    ```
+    
     
 </body>
 </html>
-⚠️ Warning <br/>
+```
+⚠️ Warning<br/>
 Please ensure you have all necessary dependencies installed before running the project. Refer to the installation instructions in the repository.<br/>
 
-ℹ️ Note <br/>
+ℹ️ Note<br/>
 This project is open-source and welcomes contributions! Feel free to fork the repository and submit pull requests.
 
 
